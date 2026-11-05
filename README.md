@@ -1,3 +1,9 @@
+# Teyochat landing-page prototype
+
+The requested Leedlime reference rebuild is implemented. See [run instructions, edit points and verification](docs/research/leedlime/HANDOFF.md), [route/research brief](docs/research/leedlime/brief.md), and [desktop](docs/design-references/leedlime/comparison-desktop.png) / [mobile](docs/design-references/leedlime/comparison-mobile.png) comparisons.
+
+The original template documentation follows.
+
 <div align="center">
 
 # AI Website Cloner Template

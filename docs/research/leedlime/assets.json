@@ -1,0 +1,86 @@
+[
+  {
+    "source": "https://leedlime.com/Inter-Sans.woff2",
+    "path": "public/sites/leedlime/fonts/inter-sans.woff2",
+    "type": "font/woff2",
+    "bytes": 51404
+  },
+  {
+    "source": "https://leedlime.com/_astro/newsreader-latin-400-normal.BFBkh4jY.woff2",
+    "path": "public/sites/leedlime/fonts/newsreader-400.woff2",
+    "type": "font/woff2",
+    "bytes": 22480
+  },
+  {
+    "source": "https://leedlime.com/_astro/newsreader-latin-500-normal.B66TYsaK.woff2",
+    "path": "public/sites/leedlime/fonts/newsreader-500.woff2",
+    "type": "font/woff2",
+    "bytes": 23624
+  },
+  {
+    "source": "https://leedlime.com/images/hills-smudge-art.jpg",
+    "path": "public/sites/leedlime/images/hills-smudge-art.jpg",
+    "type": "image/jpeg",
+    "bytes": 205395
+  },
+  {
+    "source": "https://leedlime.com/images/field-paint.jpg",
+    "path": "public/sites/leedlime/images/field-paint.jpg",
+    "type": "image/jpeg",
+    "bytes": 152366
+  },
+  {
+    "source": "https://leedlime.com/images/paintings/painting1.jpg",
+    "path": "public/sites/leedlime/images/painting1.jpg",
+    "type": "image/jpeg",
+    "bytes": 258985
+  },
+  {
+    "source": "https://leedlime.com/images/paintings/painting2.jpg",
+    "path": "public/sites/leedlime/images/painting2.jpg",
+    "type": "image/jpeg",
+    "bytes": 255015
+  },
+  {
+    "source": "https://leedlime.com/images/paintings/painting3.jpg",
+    "path": "public/sites/leedlime/images/painting3.jpg",
+    "type": "image/jpeg",
+    "bytes": 256727
+  },
+  {
+    "source": "https://leedlime.com/images/clouds-painting.jpg",
+    "path": "public/sites/leedlime/images/clouds-painting.jpg",
+    "type": "image/jpeg",
+    "bytes": 105469
+  },
+  {
+    "source": "https://leedlime.com/icons/chatgpt.png",
+    "path": "public/sites/leedlime/icons/chatgpt.png",
+    "type": "image/png",
+    "bytes": 1462
+  },
+  {
+    "source": "https://leedlime.com/icons/claude-ai.png",
+    "path": "public/sites/leedlime/icons/claude-ai.png",
+    "type": "image/png",
+    "bytes": 2299
+  },
+  {
+    "source": "https://leedlime.com/icons/gemini-ai.png",
+    "path": "public/sites/leedlime/icons/gemini-ai.png",
+    "type": "image/png",
+    "bytes": 1068
+  },
+  {
+    "source": "https://leedlime.com/icons/perplexity-ai.png",
+    "path": "public/sites/leedlime/icons/perplexity-ai.png",
+    "type": "image/png",
+    "bytes": 2237
+  },
+  {
+    "source": "https://leedlime.com/icons/grok.png",
+    "path": "public/sites/leedlime/icons/grok.png",
+    "type": "image/png",
+    "bytes": 1017
+  }
+]
